@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/6d39d43e-65fe-4060-b0a0-5e1fce6007c8
+
 # Celestron CGE → OnStepX conversion
 
 I converted a used, classic Celestron CGE equatorial mount from its stock servo motors and hand-controller
@@ -137,7 +141,7 @@ switches out of the box, so I wired them straight in.
 
 After the clean and re-lube, the axes turn very smoothly with the clutch disengaged:
 
-<!-- VIDEO: drag upload/clutch-disengaged.mp4 into GitHub's editor here; it will insert a user-attachments link. -->
+https://github.com/user-attachments/assets/6cae568f-59e8-4dd9-8fbe-225d4e846e38
 
 ## Electronics: OnStepX on a FYSETC E4
 
