@@ -232,6 +232,10 @@ PHD2 ──► guiding (Predictive PEC)
 
 ## Results
 
+The finished mount under OnStepX control, with the Dec stepper and belt driving the worm.
+
+https://github.com/user-attachments/assets/81513d5f-1b53-4397-bdb9-5a5d6d1b556c
+
 - **Guiding:** 0.88 arcsec total RMS (RA 0.80", Dec 0.36") on a good night. That's pretty good for sea level
   on the coast. The mount and the ONAG both get credit for it.
 
