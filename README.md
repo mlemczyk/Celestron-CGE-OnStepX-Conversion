@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/6d39d43e-65fe-4060-b0a0-5e1fce6007c8
-
 # Celestron CGE → OnStepX conversion
 
 I converted a used, classic Celestron CGE equatorial mount from its stock servo motors and hand-controller
